@@ -1,3 +1,3 @@
 # Newbie
 
-Basic descriptions
+Basic descriptions.
